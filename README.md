@@ -66,3 +66,11 @@ Las credenciales por defecto para la conexión son:
 | Usuario | Clave | Base de datos |
 |:---:|:---:|:---:|
 | dbuser | dbpass | dbname |
+
+## Créditos
+
+Basado en [https://github.com/kodetop/docker-php-mysql](https://github.com/kodetop/docker-php-mysql)
+
+## Licencia
+
+Publicado bajo [MIT License](./LICENCE).
